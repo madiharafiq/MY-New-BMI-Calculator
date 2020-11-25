@@ -15,3 +15,8 @@ A new Flutter application.
 # Main Page of App
 
 ![Screenshot_20201125-210157](https://user-images.githubusercontent.com/74812642/100252413-a7e3f600-2f61-11eb-891d-6c3ffdbf95c4.png)
+
+
+# Result Page of App
+
+![Screenshot_20201125-210210](https://user-images.githubusercontent.com/74812642/100252427-aa465000-2f61-11eb-99b4-9910e90e4d32.png)
