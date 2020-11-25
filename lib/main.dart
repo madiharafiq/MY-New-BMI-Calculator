@@ -43,7 +43,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
 
           SizedBox( height: 30.0),
 
-          SpinKitRipple(color: Colors.black, size: 150.0, borderWidth: 20.0,),
+          SpinKitRipple(color: Colors.red, size: 150.0, borderWidth: 20.0,),
         ],
       ),
     );
